@@ -42,30 +42,12 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4700,50:00A3FF,100:A3FF00&height=60&section=header" width="100%" />
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00A3FF?style=for-the-badge&logo=github&logoColor=FF4700"/>
-  <img src="https://img.shields.io/badge/Top%20Stack%20Overflow%20Answerer-FF4700?style=for-the-badge&logo=stackoverflow&logoColor=00A3FF"/>
-  <img src="https://img.shields.io/badge/Continuous%20Learner-A3FF00?style=for-the-badge&logo=bookstack&logoColor=FF4700"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4700,50:00A3FF,100:A3FF00&height=40&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4700,50:00A3FF,100:A3FF00&height=60&section=header" width="100%" />
-</p>
-
 ## 🔥 Programmer Activity
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always%20Coding-00A3FF?style=for-the-badge&logo=visualstudiocode&logoColor=FF4700" />
-  <img src="https://img.io/badge/Weekly%20Commits-FF4700?style=for-the-badge&logo=git&logoColor=00A3FF"/>
-  <img src="https://img.io/badge/Open%20Source%20Active-A3FF00?style=for-the-badge&logo=github&logoColor=FF4700"/>
+  <img src="https://img.shields.io/badge/Weekly%20Commits-FF4700?style=for-the-badge&logo=git&logoColor=00A3FF" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Active-A3FF00?style=for-the-badge&logo=github&logoColor=FF4700" />
 </p>
 
 <p align="center">
@@ -86,14 +68,14 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-00A3FF?style=for-the-badge&logo=javascript&logoColor=A3FF00"/>
-  <img src="https://img.io/badge/-TypeScript-FF4700?style=for-the-badge&logo=typescript&logoColor=A3FF00"/>
-  <img src="https://img.io/badge/-Python-A3FF00?style=for-the-badge&logo=python&logoColor=00A3FF"/>
-  <img src="https://img.io/badge/-Go-00A3FF?style=for-the-badge&logo=go&logoColor=A3FF00"/>
-  <img src="https://img.io/badge/-React-FF4700?style=for-the-badge&logo=react&logoColor=A3FF00"/>
-  <img src="https://img.io/badge/-Next.js-A3FF00?style=for-the-badge&logo=next.js&logoColor=FF4700"/>
-  <img src="https://img.io/badge/-Node.js-00A3FF?style=for-the-badge&logo=node.js&logoColor=FF4700"/>
-  <img src="https://img.io/badge/-Docker-FF4700?style=for-the-badge&logo=docker&logoColor=A3FF00"/>
-  <img src="https://img.io/badge/-GitHub%20Actions-A3FF00?style=for-the-badge&logo=github-actions&logoColor=FF4700"/>
+  <img src="https://img.shields.io/badge/-TypeScript-FF4700?style=for-the-badge&logo=typescript&logoColor=A3FF00"/>
+  <img src="https://img.shields.io/badge/-Python-A3FF00?style=for-the-badge&logo=python&logoColor=00A3FF"/>
+  <img src="https://img.shields.io/badge/-Go-00A3FF?style=for-the-badge&logo=go&logoColor=A3FF00"/>
+  <img src="https://img.shields.io/badge/-React-FF4700?style=for-the-badge&logo=react&logoColor=A3FF00"/>
+  <img src="https://img.shields.io/badge/-Next.js-A3FF00?style=for-the-badge&logo=next.js&logoColor=FF4700"/>
+  <img src="https://img.shields.io/badge/-Node.js-00A3FF?style=for-the-badge&logo=node.js&logoColor=FF4700"/>
+  <img src="https://img.shields.io/badge/-Docker-FF4700?style=for-the-badge&logo=docker&logoColor=A3FF00"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-A3FF00?style=for-the-badge&logo=github-actions&logoColor=FF4700"/>
 </p>
 
 <p align="center">
