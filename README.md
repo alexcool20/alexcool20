@@ -91,12 +91,12 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
 ## 📊 My GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexcool20&show_icons=true&theme=dracula&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcool20&layout=compact&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexcool20&show_icons=true&theme=dracula&hide_border=true&title_color=00A3FF&icon_color=FF4700&text_color=A3FF00&border_color=A3FF00" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcool20&layout=compact&theme=dracula&hide_border=true&title_color=FF4700&icon_color=00A3FF&text_color=A3FF00&border_color=A3FF00" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexcool20&theme=dracula&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexcool20&theme=dracula&hide_border=true&border_color=A3FF00" height="165"/>
 </div>
 
 <div align="center">
@@ -120,4 +120,3 @@ I turn ☕ into code, bugs into features, and ideas into reality.<br/>
     <p><strong>“Great code, like great art, inspires and endures.”</strong></p>
   </blockquote>
 </p>
-
